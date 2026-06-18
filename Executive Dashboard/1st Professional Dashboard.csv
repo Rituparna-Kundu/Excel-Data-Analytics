@@ -1,0 +1,50 @@
+Order ID,Product Name,Region,Month,Sales Amount (USD),Profit Amount (USD)
+ORD-1001,Smart TV,South,April,13149.11,2054.58
+ORD-1002,Keyboard,North,October,3651.22,641.24
+ORD-1003,Headphones,South,September,9016.51,1419.64
+ORD-1004,Keyboard,West,April,12438.36,3611
+ORD-1005,Laptop,South,December,9534.97,2093.38
+ORD-1006,Headphones,East,February,9029.67,1981.72
+ORD-1007,Camera,Central,May,2762.17,481.11
+ORD-1008,Keyboard,North,July,16335.44,5430.44
+ORD-1009,Monitor,East,October,2497.2,557.61
+ORD-1010,Headphones,East,February,4653.48,778.94
+ORD-1011,Printer,East,August,17251.04,6324.59
+ORD-1012,Camera,East,April,13078,3154.52
+ORD-1013,Smartphone,Central,November,13733.33,4469.58
+ORD-1014,Tablet,West,July,4251.63,1412.74
+ORD-1015,Keyboard,South,November,6129.01,2337.28
+ORD-1016,Laptop,South,January,7161.37,2449.75
+ORD-1017,Smartphone,South,October,16295.87,4078.71
+ORD-1018,Speaker,West,November,17650.98,4036.24
+ORD-1019,Headphones,Central,September,9718.19,2101.27
+ORD-1020,Monitor,West,June,5992.09,1774.54
+ORD-1021,Keyboard,West,February,5167.09,2063.66
+ORD-1022,Tablet,South,November,15359.86,5610.58
+ORD-1023,Printer,Central,August,9021.04,1496.43
+ORD-1024,Laptop,North,November,11053.17,4341.35
+ORD-1025,Camera,North,May,17810.98,6015.11
+ORD-1026,Smart TV,Central,March,9260.54,2439.51
+ORD-1027,Smart TV,Central,October,10645.95,1880.1
+ORD-1028,Tablet,Central,September,4779.31,1163.66
+ORD-1029,Speaker,North,February,18451.38,5530.55
+ORD-1030,Smart TV,South,January,18652.87,6895.6
+ORD-1031,Smartphone,North,December,5576.56,1627.46
+ORD-1032,Keyboard,South,March,10233.82,1712.15
+ORD-1033,Tablet,East,September,13535.27,5234.25
+ORD-1034,Headphones,Central,December,17576.23,4495.73
+ORD-1035,Printer,East,August,14107.49,4630.6
+ORD-1036,Headphones,South,February,18092.67,4756.05
+ORD-1037,Headphones,Central,April,7423.63,2205.39
+ORD-1038,Laptop,South,February,1136.63,371.63
+ORD-1039,Smartphone,Central,April,18202.98,6642.43
+ORD-1040,Keyboard,South,December,6291.07,1707.1
+ORD-1041,Smart TV,South,April,12403.97427,3960.875269
+ORD-1042,Keyboard,North,October,12488.67036,4005.298185
+ORD-1043,Headphones,South,September,12573.36644,4049.7211
+ORD-1044,Keyboard,West,April,12658.06253,4094.144016
+ORD-1045,Laptop,South,December,12742.75861,4138.566932
+ORD-1046,Headphones,East,February,12827.4547,4182.989847
+ORD-1047,Camera,Central,May,12912.15079,4227.412763
+ORD-1048,Keyboard,North,July,12996.84687,4271.835678
+ORD-1049,Monitor,East,October,13081.54296,4316.258594
